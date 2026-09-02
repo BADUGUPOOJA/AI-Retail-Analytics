@@ -38,3 +38,8 @@ The detected objects are stored as structured data and can be retrieved using SQ
 ## Project Objective
 
 The main objective is to demonstrate how AI-based image object detection can be combined with Google Cloud services to analyze and manage retail image data efficiently.
+## Project Results
+
+The YOLO model successfully detected objects from the input images.
+
+![Project Results](project-results.png)
